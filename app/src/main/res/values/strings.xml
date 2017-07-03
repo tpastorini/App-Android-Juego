@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pictogramas</string>
+    <string name="aprender">Aprende conmigo</string>
+    <string name="jugar">Juguemos</string>
+    <string name="salir">Salir</string>
+
+    <string name="animales">Los animales</string>
+    <string name="calle">En la calle</string>
+    <string name="numeros">Los números</string>
+
+    <string name="siguiente">Siguiente</string>
+    <string name="correcta">¡Correcto!</string>
+
+</resources>
