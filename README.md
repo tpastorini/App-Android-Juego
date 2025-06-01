@@ -1,4 +1,4 @@
-# Aplicacion-Android-Juego
+# Aplicacion-Android-Game
 
 This application has two screens: 
 
